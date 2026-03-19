@@ -16,15 +16,17 @@ The system was created to replace fragmented manual workflows and spreadsheet-ba
 
 ## My Role
 
-I worked on this project as a full-stack developer and handled key parts of the product implementation, including:
+I built and iterated this project as a full-stack engineer, focusing on practical delivery and workflow reliability.
 
-- Designing the main attendance and booking workflows
-- Building role-based pages and access logic
-- Integrating frontend pages with Supabase/PostgreSQL
-- Implementing attendance tracking, booking management, and customer records
-- Iterating on UI/UX details based on real user feedback
-- Investigating and fixing production issues related to attendance states and workflow edge cases
-- Using AI tools to accelerate prototyping, debugging, and code refinement, while keeping architecture and implementation decisions under my control
+My contribution included:
+
+- Designing the main attendance, booking, and customer management workflows
+- Building role-based pages and access logic for operational users
+- Connecting frontend interfaces with Supabase / PostgreSQL data flows
+- Implementing and refining attendance tracking, booking views, reports, and customer records
+- Responding to real user feedback and making product-oriented UI/UX adjustments
+- Investigating production issues such as attendance state inconsistencies and workflow edge cases
+- Using AI tools to accelerate prototyping, debugging, and iteration while keeping technical judgment, architecture decisions, and final delivery under my control
 
 ## Core Features
 
