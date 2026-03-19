@@ -52,15 +52,34 @@ Some of the practical engineering challenges in this project included:
 - Refining the UI for operational use on different devices
 - Iterating quickly based on real user feedback
 
+## Production Iteration Highlights
+
+This project was not just a static demo. It was iterated based on real operational feedback and practical workflow issues.
+
+Examples of product and engineering iteration included:
+
+- Refining attendance state handling to reduce workflow confusion
+- Adjusting UI structure for clearer day-to-day operational use
+- Improving role-based workflows for staff and admin users
+- Making interface changes based on actual usage patterns and feedback
+- Fixing edge cases that affected reliability in attendance and booking views
+
 ## Screenshots
 
-Screenshots will be added here:
+### Login Page
+![Login Page](images/login-page.png)
 
-- Login page
-- Dashboard
-- Daily attendance
-- Monthly booking
-- Customer management
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Daily Attendance
+![Daily Attendance](images/daily-attendance.png)
+
+### Monthly Booking
+![Monthly Booking](images/monthly-booking.png)
+
+### Customer Management
+![Customer Management](images/customers.png)
 
 ## Notes
 
