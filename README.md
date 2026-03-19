@@ -64,22 +64,61 @@ Examples of product and engineering iteration included:
 - Making interface changes based on actual usage patterns and feedback
 - Fixing edge cases that affected reliability in attendance and booking views
 
-## Screenshots
+## Demo / Preview
 
-### Login Page
+- **GitHub Repository:** https://github.com/9OwO6/lchaim-attendance-system-showcase
+- **Architecture Notes:** [docs/architecture.md](docs/architecture.md)
+- **Live Demo:** Available upon request / private client deployment
+- **Code Access:** This repository is a sanitized showcase version for portfolio and interview review
+
+## Product Walkthrough
+
+### 1. Login Page
+Secure login entry point for staff and admin users.
+
 ![Login Page](images/login-page.png)
 
-### Dashboard
+### 2. Dashboard
+Central operational overview for daily usage, including attendance visibility and workflow entry points.
+
 ![Dashboard](images/dashboard.png)
 
-### Daily Attendance
+### 3. Daily Attendance
+Main attendance management view for handling day-to-day attendance records and operational updates.
+
 ![Daily Attendance](images/daily-attendance.png)
 
-### Monthly Booking
+### 4. Staff Attendance View
+A focused workflow page for staff-side attendance handling and status review.
+
+![Staff Attendance](images/staff-attendance.png)
+
+### 5. Monthly Booking
+Calendar-oriented workflow for managing scheduling and booking operations.
+
 ![Monthly Booking](images/monthly-booking.png)
 
-### Customer Management
+### 6. Customer Management
+Centralized customer records and supporting operational information.
+
 ![Customer Management](images/customers.png)
+
+### 7. Reports / Export
+Reporting-oriented page for operational review and export-related workflows.
+
+![Reports](images/report-page.png)
+
+## Why This Project Matters
+
+This was not built as a tutorial or static school project. It was designed around real operational workflows and improved through practical iteration.
+
+What this project demonstrates:
+
+- Full-stack implementation for a real business workflow
+- Role-based interface and access design
+- Practical data flow handling across attendance, booking, and customer management
+- Iteration based on real user feedback rather than fixed demo assumptions
+- Ability to use AI tools as a development accelerator while keeping architecture and delivery decisions grounded
 
 ## Notes
 
