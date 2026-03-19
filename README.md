@@ -1,6 +1,8 @@
 # L'Chaim Attendance System — Showcase
 
-Sanitized showcase of a production-oriented attendance and booking management system built with Next.js, TypeScript, and Supabase.
+A sanitized showcase of a production-oriented attendance and booking management platform built with Next.js, TypeScript, and Supabase.
+
+This project highlights real workflow design, full-stack implementation, and iteration based on operational feedback rather than a static demo scenario.
 
 ## Overview
 
