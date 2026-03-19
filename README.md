@@ -12,6 +12,53 @@ This project highlights real workflow design, full-stack implementation, and ite
 - **Focus Areas:** Workflow design, role-based access, operational usability, reporting, and iterative improvement
 - **Demo:** [Watch the walkthrough video](https://youtu.be/o60A8z0n65Y)
 
+## Demo / Preview
+
+- **GitHub Repository:** https://github.com/9OwO6/lchaim-attendance-system-showcase
+- **Architecture Notes:** [docs/architecture.md](docs/architecture.md)
+- **Full Walkthrough Video:** [YouTube Demo](https://youtu.be/o60A8z0n65Y)
+- **Live Demo:** Available upon request / private client deployment
+- **Code Access:** This repository is a sanitized showcase version for portfolio and interview review
+  
+This walkthrough video provides a short end-to-end overview of the main workflows, including login, dashboard, daily attendance, monthly booking, customer management, and reporting.
+
+## Product Walkthrough Screenshots
+
+### 1. Login Page
+Secure login entry point for staff and admin users.
+
+![Login Page](images/login-page.png)
+
+### 2. Dashboard
+Central operational overview for daily usage, including attendance visibility and workflow entry points.
+
+![Dashboard](images/dashboard.png)
+
+### 3. Daily Attendance
+Main attendance management view for handling day-to-day attendance records and operational updates.
+
+![Daily Attendance](images/daily-attendance.png)
+
+### 4. Staff Attendance View
+A focused workflow page for staff-side attendance handling and status review.
+
+![Staff Attendance](images/staff-attendance.png)
+
+### 5. Monthly Booking
+Calendar-oriented workflow for managing scheduling and booking operations.
+
+![Monthly Booking](images/monthly-booking.png)
+
+### 6. Customer Management
+Centralized customer records and supporting operational information.
+
+![Customer Management](images/customers.png)
+
+### 7. Reports / Export
+Reporting-oriented page for operational review and export-related workflows.
+
+![Reports](images/report-page.png)
+
 ## Overview
 
 This repository presents a portfolio-safe showcase version of the L'Chaim Attendance System. It was built for real operational use to manage attendance, bookings, customer information, and staff workflows in one centralized platform.
@@ -75,53 +122,6 @@ Examples of product and engineering iteration included:
 - Improving role-based workflows for staff and admin users
 - Making interface changes based on actual usage patterns and feedback
 - Fixing edge cases that affected reliability in attendance and booking views
-
-## Demo / Preview
-
-- **GitHub Repository:** https://github.com/9OwO6/lchaim-attendance-system-showcase
-- **Architecture Notes:** [docs/architecture.md](docs/architecture.md)
-- **Full Walkthrough Video:** [YouTube Demo](https://youtu.be/o60A8z0n65Y)
-- **Live Demo:** Available upon request / private client deployment
-- **Code Access:** This repository is a sanitized showcase version for portfolio and interview review
-  
-This walkthrough video provides a short end-to-end overview of the main workflows, including login, dashboard, daily attendance, monthly booking, customer management, and reporting.
-
-## Product Walkthrough Screenshots
-
-### 1. Login Page
-Secure login entry point for staff and admin users.
-
-![Login Page](images/login-page.png)
-
-### 2. Dashboard
-Central operational overview for daily usage, including attendance visibility and workflow entry points.
-
-![Dashboard](images/dashboard.png)
-
-### 3. Daily Attendance
-Main attendance management view for handling day-to-day attendance records and operational updates.
-
-![Daily Attendance](images/daily-attendance.png)
-
-### 4. Staff Attendance View
-A focused workflow page for staff-side attendance handling and status review.
-
-![Staff Attendance](images/staff-attendance.png)
-
-### 5. Monthly Booking
-Calendar-oriented workflow for managing scheduling and booking operations.
-
-![Monthly Booking](images/monthly-booking.png)
-
-### 6. Customer Management
-Centralized customer records and supporting operational information.
-
-![Customer Management](images/customers.png)
-
-### 7. Reports / Export
-Reporting-oriented page for operational review and export-related workflows.
-
-![Reports](images/report-page.png)
 
 ## Why This Project Matters
 
