@@ -4,6 +4,14 @@ A sanitized showcase of a production-oriented attendance and booking management 
 
 This project highlights real workflow design, full-stack implementation, and iteration based on operational feedback rather than a static demo scenario.
 
+## Quick Summary
+
+- **Project Type:** Production-oriented attendance and booking management platform
+- **Role:** Full-stack engineer
+- **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL, NextAuth.js
+- **Focus Areas:** Workflow design, role-based access, operational usability, reporting, and iterative improvement
+- **Demo:** [Watch the walkthrough video](https://youtu.be/o60A8z0n65Y)
+
 ## Overview
 
 This repository presents a portfolio-safe showcase version of the L'Chaim Attendance System. It was built for real operational use to manage attendance, bookings, customer information, and staff workflows in one centralized platform.
@@ -72,10 +80,13 @@ Examples of product and engineering iteration included:
 
 - **GitHub Repository:** https://github.com/9OwO6/lchaim-attendance-system-showcase
 - **Architecture Notes:** [docs/architecture.md](docs/architecture.md)
+- **Full Walkthrough Video:** [YouTube Demo](https://youtu.be/o60A8z0n65Y)
 - **Live Demo:** Available upon request / private client deployment
 - **Code Access:** This repository is a sanitized showcase version for portfolio and interview review
+  
+This walkthrough video provides a short end-to-end overview of the main workflows, including login, dashboard, daily attendance, monthly booking, customer management, and reporting.
 
-## Product Walkthrough
+## Product Walkthrough Screenshots
 
 ### 1. Login Page
 Secure login entry point for staff and admin users.
